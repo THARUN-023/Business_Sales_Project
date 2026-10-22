@@ -16,7 +16,8 @@ The dashboards help analyze revenue, orders, customers, products, monthly sales 
 
 ### 1. Sales Dashboard
 
-![Sales Dashboard](Sales%20Dashboard.png)
+
+![Sales Dashboard](./Sales%20Dashboard.png)
 
 The Sales Dashboard provides an overview of business sales performance through key performance indicators and interactive visualizations.
 
