@@ -16,7 +16,7 @@ The dashboards provide insights into revenue, orders, customers, products, sales
 
 ### 1. Sales Dashboard
 
-![Business Sales Dashboard](Sales Dashboard.png)
+(Sales Dashboard.png)
 
 The Sales Dashboard provides an overview of business sales performance through key performance indicators and interactive visualizations.
 
@@ -41,7 +41,7 @@ The Sales Dashboard provides an overview of business sales performance through k
 
 ### 2. Profit Dashboard
 
-![Business Profit Dashboard](Profit Dashboard.png)
+(Profit Dashboard.png)
 
 The Profit Dashboard focuses on profitability, profit margins, and product performance.
 
@@ -67,7 +67,7 @@ The Profit Dashboard focuses on profitability, profit margins, and product perfo
 
 ### 3. Data Insights
 
-![Business Data Insights](Data Insights.png)
+(Data Insights.png)
 
 The Data Insights section summarizes findings from the Sales and Profit dashboards and provides recommendations for improving business performance.
 
